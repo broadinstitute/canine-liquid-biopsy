@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.com/broadinstitute/ichorCNA.svg?branch=master)](https://travis-ci.com/broadinstitute/ichorCNA)
 
 # *ichorCNA*
-ichorCNA is a tool for estimating the fraction of tumor in cell-free DNA from ultra-low-pass whole genome sequencing (ULP-WGS, 0.1x coverage). 
+ichorCNA is a tool for estimating the fraction of tumor in cell-free DNA from ultra-low-pass whole genome sequencing (ULP-WGS, 0.1x coverage). This version has been modified to run on and plot the canine genome. For more details, refer to the original ichorCNA documentation listed below.
 
 ## ichorCNA Wiki Page
 **For more details on usage/pipelines, outputs, and FAQs, please visit the [GitHub Wiki page for ichorCNA](https://github.com/broadinstitute/ichorCNA/wiki)**
