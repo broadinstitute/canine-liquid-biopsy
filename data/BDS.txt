@@ -1,0 +1,64 @@
+MR_number	Sample_ID	Dog_ID	Blood_draw_site	T_simple	T_circulation	DNA_conc	TF	FSR	Frag_mode	Days_since_staged	Tumor location	Tumor_loc	Jugular_drained
+444725	01-cfDNA_L_CP_1	01-cfDNA	Cephalic	114.185	122.301	4.872	0.2935	0.78344659	143	34	sacrum and iliac wing	Posterior	No
+444725	01-cfDNA_L_JP_1	01-cfDNA	Jugular	80.873	100.823	4.752	0.3128	0.9154371	143	34	sacrum and iliac wing	Posterior	No
+444725	01-cfDNA_L_SP_1	01-cfDNA	Saphenous	61.622	172.609	4.74	0.2572	0.74118031	152	34	sacrum and iliac wing	Posterior	No
+432299	02-cfDNA_L_CP_1	02-cfDNA	Cephalic	80.016	107.62	1.86	0	0.44602269	168	0	bilateral thyroid	Anterior	Yes
+432299	02-cfDNA_R_JP_1	02-cfDNA	Jugular	8.59	9.525	1.656	0	0.5300439	163	0	bilateral thyroid	Anterior	Yes
+432299	02-cfDNA_R_SP_1	02-cfDNA	Saphenous	129.17	157.928	1.74	0.01194	0.45821491	168	0	bilateral thyroid	Anterior	Yes
+451537	03-cfDNA_L_JP_1	03-cfDNA	Jugular	96.686	119.756	2.52	0.374	1.0988536	143	0	right anal gland	Posterior	No
+451537	03-cfDNA_L_JP_1	03-cfDNA	Jugular	79.402	106.797	2.52	0.374	1.0988536	143	0	right anal gland	Posterior	No
+451537	03-cfDNA_L_SP_1	03-cfDNA	Saphenous	48.88	191.542	3.015	0.357	0.95740226	143	0	right anal gland	Posterior	No
+451537	03-cfDNA_L_SP_1	03-cfDNA	Saphenous	56.041	178.583	3.015	0.357	0.95740226	143	0	right anal gland	Posterior	No
+451537	03-cfDNA_R_CP_1	03-cfDNA	Cephalic	112.071	143.234	2.985	0.3672	0.95293836	143	0	right anal gland	Posterior	No
+451537	03-cfDNA_R_CP_1	03-cfDNA	Cephalic	108.693	130.275	2.985	0.3672	0.95293836	143	0	right anal gland	Posterior	No
+407812	04-cfDNA_L_CP_1	04-cfDNA	Cephalic	98.462	144.697	4.668	0.01399	0.48871863	163	102	Right carpus	Anterior	No
+407812	04-cfDNA_L_JP_1	04-cfDNA	Jugular	76.437	81.72	5.472	0.01452	0.44973935	168	102	Right carpus	Anterior	No
+407812	04-cfDNA_R_SP_1	04-cfDNA	Saphenous	129.83	193.005	5.472	0.01201	0.47783503	167	102	Right carpus	Anterior	No
+357223	05-cfDNA_L_JP_1	05-cfDNA	Jugular	96.345	117.891	3.315	0.04082	0.59598411	152	0	anus	Posterior	No
+357223	05-cfDNA_R_CP_1	05-cfDNA	Cephalic	111.904	141.369	3.105	0.02135	0.56281299	152	0	anus	Posterior	No
+357223	05-cfDNA_R_SP_1	05-cfDNA	Saphenous	51.973	189.677	3.465	0.02063	0.52707869	164	0	anus	Posterior	No
+453424	06-cfDNA_L_JP_1	06-cfDNA	Jugular	22.708	16.42	3.576	0.1848	0.60305877	152	0	Left mandible	Anterior	Yes
+453424	06-cfDNA_L_JP_1	06-cfDNA	Jugular	50.77	67.432	3.576	0.1848	0.60305877	152	0	Left mandible	Anterior	Yes
+453424	06-cfDNA_L_SP_1	06-cfDNA	Saphenous	133.036	174.874	2.928	0.09659	0.58858142	152	0	Left mandible	Anterior	Yes
+453424	06-cfDNA_L_SP_1	06-cfDNA	Saphenous	86.015	139.218	2.928	0.09659	0.58858142	152	0	Left mandible	Anterior	Yes
+453424	06-cfDNA_R_CP_1	06-cfDNA	Cephalic	91.647	126.566	3.504	0.1006	0.58878763	152	0	Left mandible	Anterior	Yes
+453424	06-cfDNA_R_CP_1	06-cfDNA	Cephalic	59.21	90.91	3.504	0.1006	0.58878763	152	0	Left mandible	Anterior	Yes
+452431	07-cfDNA_L_CP_1	07-cfDNA	Cephalic	58.33	105.146	1.056	0.01709	0.55160114	168	27	rt proximal humerus	Anterior	No
+452431	07-cfDNA_L_CP_1	07-cfDNA	Cephalic	60.635	92.896	1.056	0.01709	0.55160114	168	27	rt proximal humerus	Anterior	No
+452431	07-cfDNA_L_JP_1	07-cfDNA	Jugular	31.504	81.668	1.2	0.01337	0.59563095	168	27	rt proximal humerus	Anterior	No
+452431	07-cfDNA_L_JP_1	07-cfDNA	Jugular	47.091	69.418	1.2	0.01337	0.59563095	168	27	rt proximal humerus	Anterior	No
+452431	07-cfDNA_R_SP_1	07-cfDNA	Saphenous	90.324	153.454	0.864	0.01114	0.58214388	168	27	rt proximal humerus	Anterior	No
+452431	07-cfDNA_R_SP_1	07-cfDNA	Saphenous	85.965	141.204	0.864	0.01114	0.58214388	168	27	rt proximal humerus	Anterior	No
+451899	08-cfDNA_L_SP_1	08-cfDNA	Saphenous	74.769	150.544	9.588	0.2481	0.84911803	152	0	spleen	Posterior	No
+451899	08-cfDNA_L_SP_1	08-cfDNA	Saphenous	85.449	138.91	9.588	0.2481	0.84911803	152	0	spleen	Anterior	No
+451899	08-cfDNA_L_SP_1	08-cfDNA	Saphenous	165.331	182.707	9.588	0.2481	0.84911803	152	0	spleen	Anterior	Yes
+451899	08-cfDNA_R_CP_1	08-cfDNA	Cephalic	74.264	102.236	7.824	0.1851	0.77009142	152	0	spleen	Posterior	No
+451899	08-cfDNA_R_CP_1	08-cfDNA	Cephalic	58.92	90.602	7.824	0.1851	0.77009142	152	0	spleen	Anterior	No
+451899	08-cfDNA_R_CP_1	08-cfDNA	Cephalic	102.284	134.399	7.824	0.1851	0.77009142	152	0	spleen	Anterior	Yes
+451899	08-Cfdna_R_JP_1	08-cfDNA	Jugular	62.185	78.758	9.516	0.2705	0.8687987	143	0	spleen	Posterior	No
+451899	08-Cfdna_R_JP_1	08-cfDNA	Jugular	44.599	67.124	9.516	0.2705	0.8687987	143	0	spleen	Anterior	No
+451899	08-Cfdna_R_JP_1	08-cfDNA	Jugular	47.333	31.492	9.516	0.2705	0.8687987	143	0	spleen	Anterior	Yes
+454120	09-cfDNA_L_CP_1	09-cfDNA	Cephalic	90.2	137.111	5.472	0.1397	0.9259416	152	32	SQ Rt antebrachial mass	Anterior	No
+454120	09-cfDNA_L_JP_1	09-cfDNA	Jugular	68.945	113.633	3.888	0.1262	0.79220093	152	32	SQ Rt antebrachial mass	Anterior	No
+454120	09-cfDNA_R_SP_1	09-cfDNA	Saphenous	121.825	185.419	4.212	0.1104	0.94196867	152	32	SQ Rt antebrachial mass	Anterior	No
+436799	10-cfDNA_L_CP_1	10-cfDNA	Cephalic	101.441	143.923	1.296	0.03576	0.53346163	164	43	Urethra	Posterior	No
+436799	10-cfDNA_L_JP_1	10-cfDNA	Jugular	84.598	120.445	1.164	0.05011	0.61215089	152	43	Urethra	Posterior	No
+436799	10-cfDNA_R_SP_1	10-cfDNA	Saphenous	43.47	192.231	1.884	0.04514	0.5985362	153	43	Urethra	Posterior	No
+503888	1-Broad-BDS-503888-LJ	1-Broad-BDS-503888	Jugular	68.837	114.439	6	0.3577	1.13876858	132	7	Right front antebrachium	Anterior	No
+503888	1-Broad-BDS-503888-LJ	1-Broad-BDS-503888	Jugular	50.709	68.763	6	0.3577	1.13876858	132	7	Right front antebrachium	Anterior	No
+503888	1-Broad-BDS-503888-LC	1-Broad-BDS-503888	Cephalic	91.245	137.917	5.76	0.3321	1.07257677	132	7	Right front antebrachium	Anterior	No
+503888	1-Broad-BDS-503888-LC	1-Broad-BDS-503888	Cephalic	60.606	92.241	5.76	0.3321	1.07257677	132	7	Right front antebrachium	Anterior	No
+509112	2-Broad-BDS-509112-RJ	2-Broad-BDS-509112	Jugular	70.536	121.097	3.63157895	0.3968	0.81978421	152	6	Right distal radius	Anterior	No
+509112	2-Broad-BDS-509112-LC	2-Broad-BDS-509112	Cephalic	130.669	144.575	6.85714286	0.2533	0.66463073	152	6	Right distal radius	Anterior	No
+508508	3-Broad-BDS-508508-RJ	3-Broad-BDS-508508	Jugular	30.979	63.635	5.5	0	0.64183441	152	8	Right distal tibia	Posterior	No
+508508	3-Broad-BDS-508508-LC	3-Broad-BDS-508508	Cephalic	48.409	87.113	4.8	0.01517	0.62068795	152	8	Right distal tibia	Posterior	No
+517287	4-Broad-BDS-517287-RJ	4-Broad-BDS-517287	Jugular	72.707	119.988	2.64705882	0.2291	1.06778214	132	0	Right distal ulna	Anterior	No
+517287	4-Broad-BDS-517287-LC	4-Broad-BDS-517287	Cephalic	94.979	143.466	3.63157895	0.1892	0.83601022	132	0	Right distal ulna	Anterior	No
+517761	5-Broad-BDS-517761-RJ	5-Broad-BDS-517761	Jugular	36.575	85.902	13.4117647	0.6639	1.42314881	144	14	Left proximal humerus	Anterior	No
+517761	5-Broad-BDS-517761-LS	5-Broad-BDS-517761	Saphenous	113.176	157.688	13.7142857	0.6752	1.69647128	143	14	Left proximal humerus	Anterior	No
+518116	6-Broad-BDS-518116-LJ	6-Broad-BDS-518116	Jugular	75.686	114.642	2.4	0.1322	0.62881906	152	0	LF limb proximal to carpus	Anterior	No
+518116	6-Broad-BDS-518116-RC	6-Broad-BDS-518116	Cephalic	92.031	138.12	4.95	0.1031	0.53880902	153	0	LF limb proximal to carpus	Anterior	No
+515719	8-Broad-BDS-515719-RJ	8-Broad-BDS-515719	Jugular	71.273	124.062	2	0.02185	0.59310353	19	52	Distolateral right forelimb	Anterior	No
+515719	8-Broad-BDS-515719-RS	8-Broad-BDS-515719	Saphenous	130.402	195.848	3.62790698	0.0287	0.40690158	173	52	Distolateral right forelimb	Anterior	No
+522632	9-Broad-BDS-522632-RJ	9-Broad-BDS-522632	Jugular	81.059	114.23	5	0.2886	0.92816126	143	0	Left distal radius	Anterior	No
+522632	9-Broad-BDS-522632-RC	9-Broad-BDS-522632	Cephalic	90.926	186.016	4.5	0.2543	0.94318536	143	0	Left distal radius	Anterior	No
